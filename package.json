@@ -4,6 +4,7 @@
   "description": "International Telephone Input with Vue",
   "author": "Steven Dao <iamstevendao@gmail.com>",
   "main": "dist/vue-tel-input.js",
+  "module": "src/vue-tel-input.es6.js",
   "license": "MIT",
   "homepage": "https://educationlink.github.io/vue-tel-input/",
   "repository": {
